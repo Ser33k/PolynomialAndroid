@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ZPO_Lab11_Zad</string>
+    <string name="title">Quadratic equation</string>
+    <string name="equation_hint">a, b, c</string>
+    <string name="calculate_value">CALCULATE VALUE FOR X</string>
+    <string name="calculate_derivative">CALCULATE DERIVATIVE</string>
+
+
+    // calculate value activity
+    <string name="label">Enter value</string>
+    <string name="value_hint">Value of x</string>
+    <string name="result">Result</string>
+</resources>
